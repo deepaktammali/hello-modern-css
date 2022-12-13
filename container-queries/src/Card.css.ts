@@ -21,7 +21,7 @@ export const productCard = style({
 });
 
 export const productCardImage = style({
-  minHeight: "150px",
+  height: "300px",
   width: "100%",
   objectFit: "cover",
 });
